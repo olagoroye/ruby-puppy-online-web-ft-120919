@@ -20,9 +20,9 @@ end
   
   end
   
-  def save
-    @@all << save
-    end
+  # def save
+  #   @@all << save
+  #   end
   
   def self.clear_all
     @@all.clear
